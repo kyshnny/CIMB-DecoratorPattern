@@ -13,7 +13,7 @@ Benefits include the "Standard Savings Account" plus access to "GCash transfer".
 The UpSave account offers the highest interest rate of 4.0%.
 Benefits include the "Standard Savings Account" plus "with Insurance".
 
-Description of the following methods
+Description of the following methods:
 1. showAccountType() - Either returns "Savings Account", "GSave" or "UpSave"
 2. getInterestRate() - Either returns 1% for Savings Account; 2.5% for GSave; 4.0%
 UpSave
@@ -28,4 +28,5 @@ BankAcountDecorator must be an interface.
 
 
 Develop a decorator pattern approach that will implement the given UML diagram:
+
 ![decoratorPattern](https://github.com/user-attachments/assets/cf6f148b-4e47-4e54-90b2-a6f5cc99bf8c)
